@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "siteTitle": "bydan",
+    "siteSub": "arquivo pessoal · em deriva",
+    "siteSym": "✦ ◌ ✦ ◌ ✦",
+    "marquee": "✦ bem-vindo ao meu arquivo pessoal · · · projetos, pensamentos e coisas estranhas · · · ande com calma · · · bydan.com.br · · · ✦ bem-vindo ao meu arquivo pessoal · · · projetos, pensamentos e coisas estranhas · · · ande com calma · · · bydan.com.br · · ·",
+    "footerSym": "✦ ◌ ✦ ◌ ✦",
+    "footerInfo": "bydan.com.br · arquivo pessoal · 2026 · feito à mão",
+    "wanderText": "✦ bydan.com.br · arquivo pessoal · em deriva · ✦",
+    "badges": ["bydan.com.br","dreamcore","gamedev","neocities","est. 2025"],
+    "typewriterMsg": "Um espaço esquecido.\nProjetos, pensamentos e coisas estranhas.\nAnde com calma."
+  },
+  "sobre": {
+    "avatar": "D",
+    "paragraphs": [
+      "Olá, eu sou Dan.",
+      "Encaro a web e o software como espaços físicos. Lugares que podem ser habitados, esquecidos ou lembrados.",
+      "Escrevo código para documentar minha passagem. Crio ferramentas quebradas, jogos lentos e interfaces que pedem paciência."
+    ],
+    "handnote": "faço coisas que não deveriam existir."
+  },
+  "filosofia": {
+    "quote": "o software moderno tem medo do silêncio.",
+    "paragraphs": [
+      "Tudo precisa pulsar, notificar, converter. Interfaces tornaram-se shoppings barulhentos onde sua atenção é a moeda.",
+      "Acredito no software que funciona como um parque vazio à noite. Calmo, analógico, que te permite vagar. O erro, a lentidão e a imperfeição física dão textura ao digital.",
+      "Programar é o único ofício onde você cria o universo e as leis que o governam ao mesmo tempo."
+    ]
+  },
+  "contato": {
+    "note": "não respondo rápido, mas respondo com cuidado.",
+    "links": [
+      { "key": "itch", "val": "itch.io/bydan", "href": "https://itch.io/bydan" },
+      { "key": "github", "val": "github.com/bydan", "href": "https://github.com/bydan" },
+      { "key": "email", "val": "dan@bydan.com.br", "href": "mailto:dan@bydan.com.br" }
+    ]
+  },
+  "stack": [
+    { "name": "Godot", "pct": 90, "level": "principal" },
+    { "name": "GDScript", "pct": 85, "level": "fluente" },
+    { "name": "Python", "pct": 65, "level": "regular" },
+    { "name": "HTML / CSS", "pct": 70, "level": "regular" },
+    { "name": "Aseprite", "pct": 55, "level": "pixel art" },
+    { "name": "Linux", "pct": 75, "level": "ambiente" }
+  ],
+  "novidades": [
+    { "title": "// novidades", "lines": ["novo projeto em desenvolvimento. detalhes em breve.", "blog atualizado · 22.05.2026"] },
+    { "title": "// sobre o site", "lines": ["arquivo pessoal de um dev em deriva. feito à mão.", "melhor em desktop."] }
+  ],
+  "posts": [
+    {
+      "id": "post-001",
+      "slug": "sobre-a-beleza-de-interfaces-mortas",
+      "title": "Sobre a beleza de interfaces mortas.",
+      "date": "22.05.2026",
+      "dateISO": "2026-05-22",
+      "excerpt": "Há algo perturbador em encontrar um site que parou de ser atualizado em 2003. As fontes erradas, os links quebrados, o contador de visitas congelado num número que nunca vai mudar.",
+      "content": "<p>Há algo perturbador em encontrar um site que parou de ser atualizado em 2003. As fontes erradas, os links quebrados, o contador de visitas congelado num número que nunca vai mudar.</p><p>É como entrar num cômodo onde o tempo parou. O pó digital se acumula, mas ninguém vai limpar.</p><p>Esses lugares me fascinam. Não pelo abandono em si, mas pela honestidade acidental que ele carrega. Ninguém tentou ser eterno ali. As pessoas construíram algo, viveram com ele por um tempo, e então seguiram em frente.</p><p>Nós perdemos isso. A internet moderna é obsessivamente viva, sempre atualizada, sempre responsiva. Mas essa vida constante tem um custo: ela apaga os rastros.</p>",
+      "tags": ["reflexão","web","estética"],
+      "coverImage": "",
+      "coverAlt": "",
+      "attachments": [],
+      "status": "published",
+      "featured": true
+    },
+    {
+      "id": "post-002",
+      "slug": "o-loop-que-eu-nao-conseguia-fechar",
+      "title": "O loop que eu não conseguia fechar.",
+      "date": "15.04.2026",
+      "dateISO": "2026-04-15",
+      "excerpt": "Diário de desenvolvimento: quando o design parece certo mas o código discorda. Três semanas num problema que tinha solução de duas linhas.",
+      "content": "<p>Três semanas. Vinte e um dias olhando para o mesmo loop.</p><p>O problema parecia simples: criaturas no meu simulador estavam se acumulando nos cantos da tela. Não era um bug óbvio — era uma tendência. Um viés emergente que eu não tinha planejado.</p><p>Tentei dezesseis abordagens diferentes. Adicionar força repulsiva nas bordas. Normalizar o vetor de movimento. Resetar a posição. Nada funcionava sem quebrar outra coisa.</p><p>A solução foram duas linhas de código que eu tinha escrito no primeiro dia e deletado porque pareciam desnecessárias.</p>",
+      "tags": ["devlog","godot","gamedev"],
+      "coverImage": "",
+      "coverAlt": "",
+      "attachments": [],
+      "status": "published",
+      "featured": false
+    },
+    {
+      "id": "post-003",
+      "slug": "iniciando-este-caderno",
+      "title": "Iniciando este caderno.",
+      "date": "03.02.2026",
+      "dateISO": "2026-02-03",
+      "excerpt": "Todo arquivo começa com uma primeira entrada. Esta é a minha.",
+      "content": "<p>Todo arquivo começa com uma primeira entrada. Esta é a minha.</p><p>Não tenho certeza do que vai acontecer aqui. Provavelmente vai ser uma mistura de devlogs, pensamentos sobre design, e coisas que não sei colocar em nenhuma outra categoria.</p><p>O que eu sei é que quero documentar. Não para audiência — embora seja bom se alguém ler. Para mim mesmo. Para olhar para trás daqui a dez anos e entender o que eu estava pensando.</p>",
+      "tags": ["meta","início"],
+      "coverImage": "",
+      "coverAlt": "",
+      "attachments": [],
+      "status": "published",
+      "featured": false
+    }
+  ],
+  "projetos": [
+    {
+      "id": "proj-001",
+      "title": "simulador_alpha",
+      "slug": "simulador-alpha",
+      "desc": "Ecossistema fechado. Sem objetivo. Criaturas nascem e morrem por ruído Perlin.",
+      "longDesc": "Um experimento de vida artificial onde criaturas simples interagem com um ambiente gerado por ruído Perlin. Sem vitória, sem derrota. Apenas existência.",
+      "tags": ["godot","horror"],
+      "coverImage": "",
+      "links": { "itch": "", "github": "", "demo": "" },
+      "status": "published",
+      "year": "2025"
+    },
+    {
+      "id": "proj-002",
+      "title": "void_explorer",
+      "slug": "void-explorer",
+      "desc": "Terminal simulado. O jogador lê um manual em PDF rasgado para descobrir os comandos.",
+      "longDesc": "Jogo de jam onde toda a interface é um terminal fake. O manual de instruções existe apenas como um PDF propositalmente danificado que o jogador precisa interpretar.",
+      "tags": ["jam","puzzle"],
+      "coverImage": "",
+      "links": { "itch": "", "github": "", "demo": "" },
+      "status": "published",
+      "year": "2024"
+    },
+    {
+      "id": "proj-003",
+      "title": "???",
+      "slug": "projeto-wip",
+      "desc": "Em desenvolvimento. Detalhes quando estiver pronto.",
+      "longDesc": "",
+      "tags": ["wip"],
+      "coverImage": "",
+      "links": { "itch": "", "github": "", "demo": "" },
+      "status": "draft",
+      "year": "2026"
+    }
+  ]
+}
