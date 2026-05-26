@@ -1,12 +1,12 @@
 {
   "meta": {
     "siteTitle": "Daniel Amaral",
-    "siteSub": "portifólio · em deriva",
+    "siteSub": "portfólio · em deriva",
     "siteSym": "✦ ◌ ✦ ◌ ✦",
-    "marquee": "✦ bem-vindo ao meu portifólio · · · projetos, pensamentos e coisas estranhas · · · bydan.com.br · · · ✦ bem-vindo ao meu portifólio · · · projetos, pensamentos e coisas estranhas · · · bydan.com.br · · · ",
+    "marquee": "✦ bem-vindo ao meu portfólio · · · projetos, pensamentos e coisas estranhas · · · bydan.com.br · · · ✦ bem-vindo ao meu portfólio · · · projetos, pensamentos e coisas estranhas · · · bydan.com.br · · · ",
     "footerSym": "✦ ◌ ✦ ◌ ✦",
     "footerInfo": "bydan.com.br · arquivo pessoal · 2026 · feito à mão",
-    "wanderText": "✦ bydan.com.br · portifólio · em deriva · ✦",
+    "wanderText": "✦ bydan.com.br · portfólio · em deriva · ✦",
     "badges": [
       "bydan.com.br",
       "dreamcore",
@@ -14,14 +14,14 @@
       "neocities",
       "est. 2025"
     ],
-    "typewriterMsg": "Um espaço esquecido.\nProjetos, pensamentos e dentre outros.\nAnde com calma."
+    "typewriterMsg": "Um espaço esquecido.\nProjetos, pensamentos e outras coisas.\nAprendizagem."
   },
   "sobre": {
     "avatar": "D",
     "paragraphs": [
-      "Olá, eu sou Daniel Amaral.",
-      "Trato a internet como um espaço habitável. Um lugar onde arquivos envelhecem, páginas morrem e sistemas continuam respirando sozinhos.",
-      "Escrevo código para registrar presença. Faço ferramentas quebradas de propósito, jogos lentos e interfaces desconfortáveis, coisas que parecem esquecidas mesmo quando ainda estão funcionando."
+      "Olá, eu sou Daniel Amaral — tenho 14 anos e estou aprendendo a construir coisas na internet.",
+      "Trabalho principalmente com GameMaker Studio 2 e GML para criar jogos, e estou expandindo para Python e HTML/CSS. Cada projeto é uma forma de aprender fazendo.",
+      "Trato a internet como um espaço habitável. Faço jogos, ferramentas e interfaces que parecem já ter existido antes de você encontrá-las — coisas que carregam silêncio mesmo enquanto ainda funcionam."
     ],
     "handnote": "Vejo software como arquitetura e a internet como ruína."
   },
@@ -31,7 +31,7 @@
       "Tecnologia também envelhece.",
       "Sites apodrecem, arquivos desaparecem, sistemas ficam vazios como prédios abandonados.",
       "Eu gosto disso.",
-      "Gosto da ideia de que um jogo pode parecer um sonho mal lembrado, que uma interface pode causar estranheza, que um software pode carregar silêncio.",
+      "Gosto da ideia de que um jogo pode parecer um sonho mal lembrado, que uma interface pode provocar estranhamento, que um software pode carregar silêncio.",
       "Não quero criar coisas perfeitas.",
       "Quero criar coisas que pareçam ter vivido antes de você encontrá-las."
     ]
@@ -48,6 +48,11 @@
         "key": "github",
         "val": "github.com/danreposi",
         "href": "https://github.com/danreposi"
+      },
+      {
+        "key": "email",
+        "val": "danielalvesamaral641@gmail.com",
+        "href": "danielalvesamaral641@gmail.com"
       }
     ]
   },
@@ -94,7 +99,7 @@
     {
       "title": "// sobre o site",
       "lines": [
-        "arquivo pessoal de um dev em deriva. feito à mão.",
+        "arquivo pessoal e criativo de um dev em deriva. feito à mão.",
         "melhor em desktop."
       ]
     }
@@ -107,7 +112,7 @@
       "date": "25.05.2026",
       "dateISO": "2026-05-25",
       "excerpt": "Todo arquivo começa com uma primeira entrada. Esta é a minha.",
-      "content": "<p>Todo arquivo começa com uma primeira entrada. Esta é a minha.</p><p>Não tenho certeza do que vai acontecer aqui. Provavelmente vai ser uma mistura de devlogs, pensamentos sobre design, e coisas que não sei colocar em nenhuma outra categoria.</p><p>O que eu sei é que quero documentar. Não para audiência, embora seja bom se alguém ler. Para mim mesmo. Para olhar para trás daqui a dez anos e entender o que eu estava pensando.</p>",
+      "content": "<p>Todo arquivo começa com uma primeira entrada. Esta é a minha.</p><p>Não tenho certeza do que vai acontecer aqui. Provavelmente vai ser uma mistura de devlogs, pensamentos sobre design, e coisas que não sei colocar em nenhuma outra categoria.</p><p>O que eu sei é que quero documentar. Não para audiência, embora seja bom se alguém também ler. Para mim mesmo. Para olhar para trás daqui a dez anos e entender o que eu estava pensando.</p>",
       "tags": [
         "meta",
         "início"
@@ -126,11 +131,12 @@
       "title": "Quem Pode Salvar Julia? (1997) - Port",
       "slug": "quem-pode-salvar-julia-1997-port",
       "year": "2025",
-      "desc": "Reviva a nostalgia de \"Quem Pode Salvar Julia?\"!",
-      "longDesc": "Este projeto é um esforço de preservação para tornar esse jogo de 1997 novamente jogável em sistemas modernos de 64 bits.",
+      "desc": "Um port de preservação para tornar este clássico de 1997 jogável novamente.",
+      "longDesc": "Este projeto é um esforço de preservação digital: recompilar e adaptar o jogo 'Quem Pode Salvar Julia?' (1997) para rodar em sistemas modernos de 64 bits, sem perder a experiência original.\n\nTecnologias e habilidades envolvidas: análise de código legado, compatibilidade entre sistemas, GameMaker Studio 2.\n\nO objetivo foi manter a fidelidade ao jogo original enquanto garantia que ele pudesse ser executado nas máquinas de hoje.",
       "tags": [
         "port",
-        "old"
+        "preservação",
+        "gamemaker"
       ],
       "coverImage": "",
       "links": {
@@ -145,12 +151,13 @@
       "title": "Ultimate Boss",
       "slug": "ultimate-boss",
       "year": "2024",
-      "desc": "Ultimate Boss funciona apenas para streamers da TWITCH.",
-      "longDesc": "Ultimate Boss é um boss interativo para sua live, permitindo a interação do chat por meio de comandos simples.\n\nConteúdo disponível:\n2 comandos (Aumentar e diminuir a vida do Boss)\n\n1 Slot de Boss\n\nUltimate Boss está disponível apenas em Português Brasileiro.\nPara acessar os comandos, o streamer deve conectar sua conta ao Ultimate Boss.",
+      "desc": "Uma ferramenta interativa de boss para lives na Twitch, controlada pelo chat em tempo real.",
+      "longDesc": "Ultimate Boss é um software desenvolvido para streamers da Twitch que queiram adicionar um elemento interativo às suas lives. O chat pode participar diretamente usando comandos para aumentar ou diminuir a vida do Boss em tempo real.\n\nTecnologias utilizadas: GameMaker Studio 2, GML, integração com API da Twitch.\n\nRecursos disponíveis: 2 comandos de chat (aumentar e diminuir vida), 1 slot de Boss configurável.\n\nDisponível em Português Brasileiro. Para ativar os comandos, o streamer conecta sua conta diretamente pelo software.",
       "tags": [
         "streamer",
         "software",
-        "pc"
+        "twitch",
+        "gamemaker"
       ],
       "coverImage": "",
       "links": {
