@@ -14,7 +14,10 @@
       "neocities",
       "est. 2025"
     ],
-    "typewriterMsg": "Um espaço esquecido.\nProjetos, pensamentos e outras coisas.\nAprendizagem."
+    "typewriterMsg": "Um espaço esquecido.\nProjetos, pensamentos e outras coisas.\nAprendizagem.",
+    "musicMode": "preset",
+    "musicVol": 0.35,
+    "musicPreset": "cassette"
   },
   "sobre": {
     "avatar": "D",
