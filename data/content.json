@@ -127,6 +127,22 @@
   ],
   "projetos": [
     {
+      "id": "proj-1779818390102",
+      "title": "After Midnight",
+      "slug": "after-midnight",
+      "year": "2026",
+      "desc": "Um jogo de terror psicológico com puzzles, história e pixel art.",
+      "longDesc": "After Midnight é um jogo de terror psicológico com foco em puzzles e narrativa. Uma noite comum se transforma em pesadelo: sem energia, sem respostas e com algo errado à espreita, o jogador é forçado a enfrentar a escuridão — e os segredos que ela guarda.\nDesenvolvido em RPG Maker MV com pixel art original. Todo o trabalho de arte e programação foi feito por mim; a história e apoio geral em colaboração com LeeoDanieel.\nTecnologias e habilidades: RPG Maker MV, pixel art (Aseprite), design de narrativa, level design de puzzles.\nEm desenvolvimento. Disponível no Itch.io.",
+      "tags": [],
+      "coverImage": "",
+      "links": {
+        "itch": "https://dan1-b1p.itch.io/after-midnignt",
+        "github": "",
+        "demo": ""
+      },
+      "status": "published"
+    },
+    {
       "id": "proj-001",
       "title": "Quem Pode Salvar Julia? (1997) - Port",
       "slug": "quem-pode-salvar-julia-1997-port",
